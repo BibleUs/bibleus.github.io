@@ -1,0 +1,89 @@
+{|~`}][N}Good morning, Strawman|WD}You are awake. Again. 
+
+Somebody is loudly talking on their cellphone on the sidewalk outside. 
+
+You feel a little nauseated, a little dehydrated.
+
+You eye the room cautiously. The process of waking up is a little surreal.
+
+If you can just get a little caffeine into your body, maybe this whole process will amount to something.
+
+Type [Help] for help.
+
+In the meantime, Press a key.|WC}0|{N}|HD}There is no such thing as a wrong question.
+
+[Look] will examine your surroundings.
+[Look at item] will look at a particular item.
+[Take item] will take an item, if that is possible.
+[Inv] will open your inventory.
+[N/S/E/W/U/D] will move in a direction, if possible.
+
+Items can be used both alone and with each other.
+
+Experiment. Life.|NM}Are you sure you want to begin a new game? That's a pretty big statement.|QM}Goodbye, my friend. Parting is such sweet sorrow. Although you'll never see this. I don't really use it.|HK}h`help|NG}new`restart|QG}quit|ND}n`north|ED}e`east|SD}s`south|WD}w`west|UD}u`up|DD}d`down|L}look`examine|T}take`get`pick|I}inv`i`inventory|CDS}you see|CDP}You see|DDSS}you see|DDPS}You see|GF}You can't do that.|TF}You can't take that.|MF}You can't move there.|LF}You can't see that.|WW}West|NW}North|SW}South|EW}East|UDP}Above you|UDS}above you|DDP}Below you|DDS}below you|SX}to the|PX}To the|SS}of|SSX}actions performed.|{N}|{N}|MP}2[2[0/Bedroom`3[2[0/Hallway`3[1[0/Bathroom`2[3[0/Kitchen`3[3[0/Living Room`4[2[0/Book Room|MI}2[3[0/2[2[0`2[2[0/2[3[0|MD}5|MW}5|MH}5|MX}2|MY}2|MZ}0|MC}2[2[0|{N}Inventory|I}|E}0|ED}|IN}1|LD}You are wearing a suit jacket, slacks and a button-up. It's a perfect storm of style and function. Including the pocket in your shirt - you have nine pockets. Be prepared.|P}0|RE}|SD}You perform a quick pocket check. You find:|V}0|SL}Nothing.|AN}inventory`bag`pockets|~N}Bedroom|I}Coffee Cup|E}1|ED}You are awake, forgetting this is a Bible game - you have a strong desire for coffee. You fill drinking some coffee will help change the world somehow.
+
+Somebody is loudly talking on their cellphone on the sidewalk outside. 
+
+You feel a little nauseated, a little dehydrated.
+
+You eye the room cautiously. The process of waking up is a little surreal.
+
+If you can just get a little caffeine into your body, maybe this whole process will amount to something.
+
+Type [Help] for help.
+
+You are in the bedroom of your apartment. It is a swirling mass of sepia. 
+You feel like bedrooms are a 'Las Vegas' situation: 
+What happens in the bedroom, stays in the bedroom.|IN}0|LD}It's a pretty standard apartment bedroom. 
+The walls are vaguely tan-colored, the carpet is vaguely grey, vaguely brown. It's as if the designer pre-ruined everything to beat the tenants to the punch.|P}1|RE}You are back in the bedroom. 
+It's like a microcosm of the circle of life and death; you sleep, you wake up, you sleep, you wake up - and eventually, you become so sick of the whole affair that you stop doing either and fall asleep at the wheel.|SD}the bedroom.|V}0|SL}you see the bedroom. It extends a sleazy invitation to you: "Stay in bed forever, ignore that whole fiasco outside"|AN}bedroom|~N}Hallway|I}|E}1|ED}You are in the hallway. It's a transition period. 
+Which is a thinly-veiled metaphor for life. If you believe in things like that.|IN}0|LD}You are standing in the hallway. 
+There is a dark patch on the floor. The shower has been leaking for months. 
+You reported it to the landlord, but the report was met with classic apathy.|P}1|RE}You are back in the hallway. The cycle continues.|SD}the hallway.|V}0|SL}you see the hallway. It signifies both momentum and stangation. Divine.|AN}hall`hallway|~N}Bathroom|I}Teaspoon|E}1|ED}You are standing in the bathroom. The shower drips continuously. 
+You swear you can make out a faint commandment as the drip hits the floor: "Kill... kill... kill"; but that could just be wishful thinking.|IN}0|LD}The brown-tiled floor is patchy at best. 
+The basin has a fine carpet of stubble. 
+Familiarity has bred contempt - you hate this room.|P}1|RE}You are standing in the bathroom once again. The shower continues to drip. It's a "telltale heart" style of fiasco.|SD}the bathroom.|V}0|SL}you see the bathroom. It is a Freudian nightmare.|AN}bathroom|~N}Kitchen|I}Faucet`Sugar`Microwave`Pot of coffee|E}1|ED}You are in the kitchen. Of all of the rooms, you've spent the least amount of time here. You consider consumption and expulsion to be two sides of the same disgusting coin.|IN}0|LD}The kitchen has a cork floor and a benchtop stained with coffee. The hinges on the cupboards have long given up maintaining the illusion of functionality.|P}0|RE}You are back in the kitchen. Clearly trying for a gold domestic medal.|SD}the kitchen|V}0|SL}The kitchen|AN}kitchen|~N}Living Room|I}|E}1|ED}You are standing in the living room. This is the real nerve centre of this whole sick affair.|IN}0|LD}Two naked lightbulbs hum above you. 
+You disagree with 'fancy' light fittings, so you removed them all when you moved into the apartment. 
+You have a television but you only use it to drown out the sound of the neighbours practicing piano.|P}1|RE}You are back in the living room. Nothing has changed. This is both depressing and comforting.|SD}the living room.|V}0|SL}the living room.|AN}living room`living`lounge|~N}Book Room|I}Bookshelf|E}1|ED}You are in the book room. It has that cool, 'nothing' atmosphere that informs your senses that this room is rarely used.|IN}0|LD}You fight constantly against the urge to call this the 'spare room'. You can't have a spare room in a two bedroom apartment. It tastes needless.|P}0|RE}You are back in the book room. You are getting close to a record for daily entries.|SD}the book room.|V}0|SL}you see the book room. You have nothing else to report.|AN}book|~{N}Coffee Cup|AN}cup`mug|CT}1|ID}A coffee cup .|IE}The coffee cup is the perfect size. Two full cups of coffee are just enough to kickstart your day but not so much as to tax your heart. You used to use a 'The Godfather' branded cup, but it was too big. You were more coffee than man.|RD}A coffee cup sits atop a pile of books.|RE}The coffee cup precariously sits atop a stack of books. It contains half a centimetre of cold tea. The cup is decorated with bees, and is striped yellow and black. You like bees.|TD}You take the coffee cup and spin it around your finger. You are truly a modern-day caffeinated cowboy.|SR}1|~N}Teaspoon|AN}spoon`teaspoon|CT}1|ID}A teaspoon, permanently discolored from fraternising with thousands of coffees.|IE}You have known this teaspoon since you were a child. 
+When you left home, you took it with you. 
+It stirred your first ever cup of coffee, and you are intent that it will stir your last.|RD}A teaspoon sits on the basin.|RE}There is a teaspoon on the basin. 
+This is not a random occurence. 
+You walk around with teaspoons, you gesture with them, you perform bold monologues with them. 
+They are the skull of Yurik in the Hamlet of your life.|TD}You take the teaspoon, wipe it on your leg and put it in your pocket. With this teaspoon you feel as if you could accomplish anything.|SR}1|~N}Faucet|AN}faucet`tap`water|CT}0|ID}|IE}|RD}The water faucet hangs, predictably, over the basin.|RE}You feel ashamed that you don't know how the faucet works.
+You are on the third floor of the apartment block, and water inexplicably reaches this pipe and is at your mercy. 
+The world is an amazing place.|TD}|SR}1|~N}Sugar|AN}sugar|CT}0|ID}|IE}|RD}A plastic tub of sugar sits on the bench.|RE}You would describe it as a tupperware tub of sugar, but you suspect that 'tupperware' is actually a brand name. 
+You don't really know what 'tupperware' is.|TD}|SR}1|~N}Microwave|AN}microwave|CT}0|ID}|IE}|RD}An ancient microwave stands beside the basin... slowly leaking radiation.|RE}You can't remember where you acquired this doomsday device. 
+You didn't buy it. You think that it was somehow given to you when you left home. 
+It looks like it has been exciting molecules since long before you understood the concept. 
+You maintain a respectful distance.|TD}|SR}1|~N}Pot of coffee|AN}pot`coffee|CT}0|ID}|IE}|RD}An old pot of coffee sits on the stove.|RE}A pot of coffee sits on the stove. You made it yesterday... possibly the day before. 
+There is a good inch or so of coffee remaining. 
+You aren't concerned about bugs or germs making their way inside it - it would be the last thing they ever did.|TD}|SR}1|~N}Cup of coffee|AN}cup`mug`coffee|CT}1|ID}A hot cup of coffee.|IE}It's a hot cup of coffee. This is the foundation of your morning.
+It's not so much that you love coffee, it's that you need the routine.|RD}A steaming hot cup of coffee sits on the bench.|RE}The coffee is hot, and smells okay. 
+You have real feeling of deja vu. You are stuck in a loop.|TD}You take the cup of coffee. 
+There is a small pleasure in following a set of simple instructions.|SR}1|~N}Sugared cup of coffee|AN}coffee`cup|CT}1|ID}A well-made cup of coffee.|IE}You are carrying a well-made cup of coffee. It gives you hope that the world is not, in fact, a terrible place filled with human form of vermin.|RD}A well-made cup of coffee sits on the bench.|RE}There is a well-made cup of coffee on the bench. It has a vague creamy-colored froth over it. You call this the 'skin'. It has cannibal overtones, and you love it all the more for it.|TD}You take the cup of coffee. It smells delicious. 
+All is right with the world.|SR}1|~N}Cold cup of coffee|AN}coffee`cup|CT}1|ID}A cold cup of coffee.|IE}You are carrying a cold cup of coffee. It is a demonstration of your hatred for yourself.|RD}A cold cup of coffee sits on the bench.|RE}There is a cold cup of coffee on the bench. 
+You have heard people refer to cold coffee as "programmer's coffee". There is some truth to that, but you resent the generalisation.|TD}You take the cold cup of coffee.|SR}1|~N}Empty pot of coffee|AN}pot|CT}0|ID}|IE}|RD}An empty pot of coffee sits on the stove.|RE}It's an empty pot of coffee. It rings vaguely of the Tao. The empty vessel: "It is precisely the space within that makes the clay pots so useful."|TD}|SR}1|~N}Spoonful of sugar|AN}spoon|CT}0|ID}A spoonful of sugar.|IE}You are carrying a spoonful of sugar.
+That ought to help the medicine go down.|RD}|RE}|TD}|SR}1|~N}Bookshelf|AN}shelf`bookshelf|CT}0|ID}|IE}|RD}An over-stuffed bookshelf is propped against the wall.|RE}This is your baby. Your pride and joy.
+You spend your evenings ordering and re-ordering the books according to arbitrary criteria.
+The books are stacked three deep, and in varying stages of disrepair.|TD}|SR}1|~{N}Take spoon|A}6|PA}Teaspoon|PB}Bathroom|~N}Take cup|A}6|PA}Coffee Cup|PB}Bedroom|~N}Take cold coffee|A}6|PA}Cold cup of coffee|PB}Kitchen|~N}Take hot coffee|A}6|PA}Cup of coffee|PB}Kitchen|~N}Take good coffee|A}6|PA}Sugared cup of coffee|PB}Kitchen|~N}Cup to cold coffee|A}7|PA}Coffee Cup/Cold cup of coffee|PB}Kitchen|~N}Pot to empty pot|A}7|PA}Pot of coffee/Empty pot of coffee|PB}Kitchen|~N}Cold coffee to hot coffee|A}7|PA}Cold cup of coffee/Cup of coffee|PB}|~N}Coffee to good coffee|A}7|PA}Cold cup of coffee/Sugared cup of coffee|PB}Kitchen|~N}Spoon Sugar|A}7|PA}Teaspoon/Spoonful of sugar|PB}Kitchen|~N}Unsugar Spoon|A}7|PA}Spoonful of sugar/Teaspoon|PB}Kitchen|~N}Action|A}0|PA}|PB}|~{N}Rinse cup|AT}|IA}Coffee Cup|IB}|RR}1|TW}rinse`wash|UD}You turn on the faucet and rinse the coffee cup. 
+It's just a gesture, in case you are the star of a Truman Show style situation.|UL}Kitchen`Bathroom|CT}1|VC}0|UT}0|~N}Fill cup|AT}Cup to cold coffee`Pot to empty pot|IA}Coffee Cup|IB}Pot of coffee|RR}1|TW}fill`use`pour|UD}You fill the cup with cold coffee and place it on the bench.
+You pause and look at the scene. You feel that if you took a photo of this in black and white, Man Ray would approve.|UL}Kitchen|CT}1|VC}0|UT}0|~N}Heat coffee|AT}Cup to cold coffee|IA}Cold cup of coffee|IB}Microwave|RR}1|TW}heat`use|UD}You put the cup of coffee in the microwave and heat it for one minute. 
+You spend the minute thinking about how long a minute is. It's a relativity thing.|UL}Kitchen|CT}0|VC}0|UT}0|~N}Scoop sugar|AT}Spoon Sugar|IA}Teaspoon|IB}Sugar|RR}1|TW}scoop`use|UD}You scoop up some sugar. 
+You spill two or three percent of the scoop on the bench, but you feel like it ads to the mise en scene.|UL}Kitchen|CT}1|VC}0|UT}0|~N}Sugar coffee|AT}Coffee to good coffee`Unsugar Spoon|IA}Spoonful of sugar|IB}Cup of coffee|RR}1|TW}put`use|UD}You put the sugar into the hot coffee and give it a brisk stir. 
+You vaguely remember hearing that it is impolite to audibly scrape the sides of a cup when stirring, but that sounds like a ridiculous concept; making coffee is a multi-sensory experience.|UL}Kitchen|CT}1|VC}0|UT}0|~N}Sugar cold coffee|AT}|IA}Spoonful of sugar|IB}Cold cup of coffee|RR}1|TW}use`put|UD}You never put sugar into cold coffee.
+You imagine the sugar and the coffee granules forming some sort of molecular alliance, leaping out of the cup and forming a hard skin over your face.
+You slowly suffocate, and die.|UL}Kitchen|CT}1|VC}0|UT}0|~N}Drink good coffee|AT}|IA}Sugared cup of coffee|IB}|RR}0|TW}drink|UD}You raise the coffee to your lips and stare into it.
+You feel as if, from a third-person perspective - your expression could be described as 'lusty'.
+You take a long, calculated sip - and feel at peace with the world.
+
+Congratulations - this day is off to a fantastic start.|UL}|CT}1|VC}1|UT}0|~N}Drink cold coffee|AT}|IA}Cold cup of coffee|IB}|RR}0|TW}drink|UD}You take a long sip of the cold coffee.
+You don't remember when you began to hate yourself this much.
+You feel as if the day can only get better from here.
+In many respects, you've done yourself a service.
+
+Congratulations, you've set the bar extremely low for another pointless day.|UL}|CT}0|VC}1|UT}0|~N}Drink hot coffee|AT}|IA}Cup of coffee|IB}|RR}0|TW}drink|UD}You take a long sip of the hot coffee and hold it at the front of your mouth.
+You dread letting it run over your tounge, but have no choice.
+The liquid insults every single tastebud before making its way down your throat.
+You are awake and alert - but only in the same way you'd be awake and alert if a gorilla burst into your bedroom as you slept and tore your sheets up.
+
+Congratulations - you've achieved a mediocre start to the day.|UL}|CT}0|VC}1|UT}0|~
